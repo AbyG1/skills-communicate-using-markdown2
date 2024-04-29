@@ -9,3 +9,7 @@
  let name = 'Aby'
  let skill = ''
 ```
+
+- [x] one 
+- [x] two
+- [ ] three
